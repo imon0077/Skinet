@@ -80,3 +80,4 @@ D:\Practice\DotNetCore\Skinet\API\bin\Debug\net7.0\Infrastructure.pdb
 D:\Practice\DotNetCore\Skinet\API\bin\Debug\net7.0\Core.pdb
 D:\Practice\DotNetCore\Skinet\API\bin\Debug\net7.0\AutoMapper.dll
 D:\Practice\DotNetCore\Skinet\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Practice\DotNetCore\Skinet\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
