@@ -1,8 +1,8 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { setTheme } from 'ngx-bootstrap/utils';
-import { Product } from './models/product';
-import { Pagination } from './models/pagination';
+import { Product } from './shared/models/product';
+import { Pagination } from './shared/models/pagination';
 
 @Component({
   selector: 'app-root',

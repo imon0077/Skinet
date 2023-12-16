@@ -6,12 +6,11 @@ import { HttpClientModule } from '@angular/common/http';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { TooltipModule } from 'ngx-bootstrap/tooltip';
-import { NavBarComponent } from './nav-bar/nav-bar.component';
+import { CoreModule } from './core/core.module';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    NavBarComponent
+    AppComponent
   ],
   imports: [
     BrowserModule,
@@ -19,6 +18,7 @@ import { NavBarComponent } from './nav-bar/nav-bar.component';
     BrowserAnimationsModule,
     HttpClientModule,
     TooltipModule.forRoot(),
+    CoreModule
   ],
   providers: [],
   bootstrap: [AppComponent]
